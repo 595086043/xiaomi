@@ -94,7 +94,7 @@ Windows用户可使用 <code>命令提示符</code> 、MacOS用户可使用 <cod
 
 **Clash安装源：**
 
-    export url='https://fastly.jsdelivr.net/gh/juewuy/ShellCrash@master' && sh -c "$(curl -kfsSl $url/install.sh)" && source /etc/profile &> /dev/null
+    export url='https://fastly.jsdelivr.net/gh/595086043/ShellCrash@master' && sh -c "$(curl -kfsSl $url/install.sh)" && source /etc/profile &> /dev/null
 
 **备用安装源：**
 
